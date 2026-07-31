@@ -10,3 +10,4 @@ Acompaña a mi blog: [devedux.github.io/blog](https://devedux.github.io/blog)
 |--------|------|--------|
 | 01 | Backpropagation desde cero (micrograd) | [`semana-01-backprop/`](./semana-01-backprop) |
 | 02 | Embeddings y modelo de lenguaje | [`semana-02-embeddings/`](./semana-02-embeddings) |
+| 03 | Transformer y self-attention (GPT mini) | [`semana-03-transformer/`](./semana-03-transformer) |
